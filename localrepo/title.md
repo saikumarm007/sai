@@ -1,3 +1,3 @@
-*hello buddy
-**hello buddy
-***I am cool always
+# hello buddy
+## hello buddy
+### I am cool always
