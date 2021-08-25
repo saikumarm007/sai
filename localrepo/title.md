@@ -19,4 +19,12 @@ this is harry potter form ``harry potter`` movie.
 - beverage
 - egg
     - each 2 eggs
-        1. big egg 
+        1. big egg
+
+
+
+Before the rule we want a blank line
+
+---
+
+And after as well.        
